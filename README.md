@@ -1,0 +1,4 @@
+alone
+=====
+
+together
